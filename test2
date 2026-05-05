@@ -1,0 +1,2 @@
+name = "Dinesh"
+print("\033[1m" + name + "\033[0m")
